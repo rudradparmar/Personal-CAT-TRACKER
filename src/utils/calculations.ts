@@ -81,3 +81,4 @@ export function calculateSummaryMetrics(store: TrackerStore) {
     mockPct: Math.min(100, Math.round((totalMocks / CUMULATIVE_TARGETS.mocks) * 100)),
   };
 }
+

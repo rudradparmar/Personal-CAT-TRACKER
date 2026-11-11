@@ -25,3 +25,4 @@ export default function ThemeToggle({ theme, onToggle }: ThemeToggleProps) {
     </button>
   );
 }
+

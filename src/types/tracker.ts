@@ -23,3 +23,4 @@ export interface SyncPayload {
   data: TrackerStore;
   timestamp: number;
 }
+

@@ -50,3 +50,4 @@ export function createInitialStore(): TrackerStore {
   });
   return store;
 }
+
